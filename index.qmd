@@ -1,19 +1,22 @@
 ---
 title: "About Me"
-about:
+about: 
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/download.jpg
 ---
 
 :::{#me}
+I remember when they first invented the internet. I always hated it.
 
 ## Goals
+Never have to use terminal again.
 
 ## Education
+Blues Clues.
 
 ## Experience
-
+Yes.
 :::
 
 Thanks for checking out my web site!

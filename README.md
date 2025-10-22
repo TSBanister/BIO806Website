@@ -1,4 +1,4 @@
-# website-template
+# BIO806Website
 
 [Video tutorial](https://youtu.be/YN75YXaLFGM)
 
