@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   
-website:
+website: "tsbanister.github.io/BIO806Website/"
   title: "Trevor Banister"
   navbar:
     left:
