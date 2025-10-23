@@ -11,6 +11,7 @@ I remember when they first invented the internet. I always hated it.
 
 ## Goals
 Never have to use terminal again.
+Edit
 
 ## Education
 Blues Clues.
